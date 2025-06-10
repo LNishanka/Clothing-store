@@ -1,0 +1,13 @@
+body {
+    background-image: url("bg\ image.jfif");
+    background-size: cover;
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 10px;
+    font-style: normal;
+    color: black;
+}
+body .center{
+    margin-top: 50px;
+    justify-items: left;
+}
